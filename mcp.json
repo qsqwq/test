@@ -1,0 +1,31 @@
+{
+    "mcpServers": {
+        "default-server": {
+            "command": "python",
+            "args": [
+                "server.py"
+            ],
+            "env": {
+                "APPDATA": "C:\\Users\\admin\\AppData\\Roaming",
+                "HOMEDRIVE": "C:",
+                "HOMEPATH": "\\Users\\admin",
+                "LOCALAPPDATA": "C:\\Users\\admin\\AppData\\Local",
+                "PATH": "D:\\nodejs\\node_cache\\_npx\\5a9d879542beca3a\\node_modules\\.bin;D:\\mcp_mongodb_bio_invasion\\node_modules\\.bin;D:\\node_modules\\.bin;C:\\Program Files\\nodejs\\node_modules\\npm\\node_modules\\@npmcli\\run-script\\lib\\node-gyp-bin;D:\\mcp_mongodb_bio_invasion\\.venv/Scripts;C:\\WINDOWS\\system32;C:\\WINDOWS;C:\\Users\\admin\\AppData\\Roaming\\npm;C:\\WINDOWS\\System32\\Wbem;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0;C:\\Program Files\\nodejs;C:\\WINDOWS\\System32\\OpenSSH;C:\\Program Files\\NVIDIA Corporation\\NVIDIA App\\NvDLISR;C:\\WINDOWS\\system32\\downlevel;C:\\Users\\admin\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Users\\admin\\AppData\\Local\\Programs\\Microsoft VS Code\\bin;D:\\Git\\cmd;D:\\Git\\mingw64\\bin;D:\\Git\\usr\\bin;D:\\Microsoft VS Code\\bin;C:\\Users\\admin\\AppData\\Local\\Programs\\Ollama;C:\\Program Files\\dotnet\\;D:\\bandzip\\Bandizip\\;D:\\cursor\\resources\\app\\bin;C:\\Users\\admin\\.local\\bin;C:\\Users\\admin\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Users\\admin\\AppData\\Local\\Programs\\Microsoft VS Code\\bin;D:\\Microsoft VS Code\\bin;C:\\Users\\admin\\AppData\\Local\\Programs\\Ollama;D:\\nodejs\\node_modules;C:\\Users\\admin\\.dotnet\\tools;c:\\Users\\admin\\.vscode\\extensions\\ms-python.debugpy-2025.10.0-win32-x64\\bundled\\scripts\\noConfigScripts;c:\\Users\\admin\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand",
+                "PROCESSOR_ARCHITECTURE": "AMD64",
+                "SYSTEMDRIVE": "C:",
+                "SYSTEMROOT": "C:\\WINDOWS",
+                "TEMP": "C:\\Users\\admin\\AppData\\Local\\Temp",
+                "USERNAME": "admin",
+                "USERPROFILE": "C:\\Users\\admin",
+                "PROGRAMFILES": "C:\\Program Files",
+                "MONGO_URI": "mongodb://localhost:27017/",
+                "MONGO_DB_NAME": "中国生物入侵研究",
+                "MONGO_COLLECTION": "生物入侵研究",
+                "EMBEDDING_MODEL": "qwen3-embedding:8b",
+                "RERANKER_MODEL": "Qwen3-Reranker-4B",
+                "MCP_ENV": "development",
+                "LOG_LEVEL": "INFO"
+            }
+        }
+    }
+}
